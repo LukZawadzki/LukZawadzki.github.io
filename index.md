@@ -1,3 +1,13 @@
+# Strona testowa - narzędzia informatyczne
+
+Ta ""strona"" powstała jako zadanie na narzędzia informatyczne
+
+Nie ma tu zbyt dużo treści
+
+I raczej nie będzie
+
+Poniżej domyślny poradnik
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LukZawadzki/LukZawadzki.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
