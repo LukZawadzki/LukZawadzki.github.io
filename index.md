@@ -6,42 +6,27 @@ Nie ma tu zbyt dużo treści
 
 I raczej nie będzie
 
-Poniżej domyślny poradnik
+# Kulawy Kustosz
+Projekt Kulawy Kustosz tworzyliśmy w ramach zaliczenia przedmiotu Narzędzia Informatyczne. Głównym celem projektu było napisanie prostej gry - popularnego Snake'a, za pomocą takich technologii jak HTML, JS, CSS. Podczas projektu ważną rolę odgrywało także poznawanie różnych narzędzi do pracy grupowej jak np. GitHub, Slack, Google Drive itp.
 
-## Welcome to GitHub Pages
+Efekt finalny naszej gry:
 
-You can use the [editor on GitHub](https://github.com/LukZawadzki/LukZawadzki.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![photo](snake_ss.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Twórcy projektu Kulawy Kustosz:
 
-### Markdown
+Weronika Hilaszek:
+<a href="https://werkah.github.io/"> strona Weroniki </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zuzanna Makowska:
+<a href="https://mcowska.github.io/"> strona Zuzy </a>
 
-```markdown
-Syntax highlighted code block
+Mateusz Mirecki:
+<a href="https://mateuszmirecki.github.io./"> strona Matiego </a>
 
-# Header 1
-## Header 2
-### Header 3
+Wiktor Prosowicz:
+<a href="https://leszywkniei.github.io/"> strona Wiktora </a>
 
-- Bulleted
-- List
+Karolina Surówka:
+<a href="https://ksuroweczka.github.io/"> strona Karoliny </a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LukZawadzki/LukZawadzki.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
