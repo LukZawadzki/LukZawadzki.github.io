@@ -11,7 +11,7 @@ Projekt Kulawy Kustosz tworzyliśmy w ramach zaliczenia przedmiotu Narzędzia In
 
 Efekt finalny naszej gry:
 
-![photo](preview.PNG)
+![photo](preview.png)
 
 Twórcy projektu Kulawy Kustosz:
 
